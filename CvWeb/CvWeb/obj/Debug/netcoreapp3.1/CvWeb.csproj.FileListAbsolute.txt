@@ -475,3 +475,12 @@ C:\Users\tu7tw2d21\Desktop\Cv\CvWeb\CvWeb\obj\Debug\netcoreapp3.1\CvWeb.csproj.C
 C:\Users\tu7tw2d21\Desktop\Cv\CvWeb\CvWeb\obj\Debug\netcoreapp3.1\CvWeb.dll
 C:\Users\tu7tw2d21\Desktop\Cv\CvWeb\CvWeb\obj\Debug\netcoreapp3.1\CvWeb.pdb
 C:\Users\tu7tw2d21\Desktop\Cv\CvWeb\CvWeb\obj\Debug\netcoreapp3.1\CvWeb.genruntimeconfig.cache
+C:\Users\tu7tw2d21\Desktop\Cv\CvWeb\CvWeb\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Education\Index.cshtml.g.cs
+C:\Users\tu7tw2d21\Desktop\Cv\CvWeb\CvWeb\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Education\Create.cshtml.g.cs
+C:\Users\tu7tw2d21\Desktop\Cv\CvWeb\CvWeb\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Education\Edit.cshtml.g.cs
+C:\Users\tu7tw2d21\Desktop\Cv\CvWeb\CvWeb\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Awards\Index.cshtml.g.cs
+C:\Users\tu7tw2d21\Desktop\Cv\CvWeb\CvWeb\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Awards\Create.cshtml.g.cs
+C:\Users\tu7tw2d21\Desktop\Cv\CvWeb\CvWeb\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Awards\Edit.cshtml.g.cs
+C:\Users\tu7tw2d21\Desktop\Cv\CvWeb\CvWeb\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Interests\Index.cshtml.g.cs
+C:\Users\tu7tw2d21\Desktop\Cv\CvWeb\CvWeb\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Interests\Create.cshtml.g.cs
+C:\Users\tu7tw2d21\Desktop\Cv\CvWeb\CvWeb\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Interests\Edit.cshtml.g.cs

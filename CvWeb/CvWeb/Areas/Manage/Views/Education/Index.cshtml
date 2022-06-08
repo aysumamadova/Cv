@@ -1,4 +1,4 @@
-﻿@model List<Experience>
+﻿@model List<Education>
 @{
     ViewData["Title"] = "Index";
     int order = 0;
@@ -6,8 +6,8 @@
 
 <div class="container-fluid">
     <div class="container-fluid d-flex justify-content-between align-items-center">
-        <h1>Experience:</h1>
-        <a asp-controller="experience" asp-action="Create" class="btn btn-primary">Create</a>
+        <h1>Education:</h1>
+        <a asp-controller="education" asp-action="Create" class="btn btn-primary">Create</a>
     </div>
     <table class="table">
         <thead>
@@ -17,22 +17,24 @@
                 <th scope="col">Title2</th>
                 <th scope="col">Description</th>
                 <th scope="col">History</th>
+                <th scope="col">GPA</th>
             </tr>
         </thead>
         <tbody>
-            @foreach (var experience in Model)
+            @foreach (var education in Model)
             {
                 order++;
                 <tr>
                     <th scope="row">@order</th>
-                    <td>@experience.Title1</td>
-                    <td>@experience.Title2</td>
-                    <td>@experience.Desc</td>
-                    <td>@experience.History</td>
+                    <td>@education.Title1</td>
+                    <td>@education.Title2</td>
+                    <td>@education.Desc</td>
+                    <td>@education.History</td>
+                    <td>@education.GPA</td>
                     <td>
                         <form method="post">
-                            <a asp-action="Edit" asp-controller="experience" asp-route-id="@experience.Id" class="btn btn-warning">Edit</a>
-                            <button type="submit" asp-action="delete" asp-controller="experience" asp-route-id="@experience.Id" class="btn btn-danger btn-sweet-delete">Delete</button>
+                            <a asp-action="Edit" asp-controller="education" asp-route-id="@education.Id" class="btn btn-warning">Edit</a>
+                            <button type="submit" asp-action="delete" asp-controller="education" asp-route-id="@education.Id" class="btn btn-danger btn-sweet-delete">Delete</button>
                         </form>
 
                     </td>
@@ -42,3 +44,5 @@
         </tbody>
     </table>
 </div>
+
+
