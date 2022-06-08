@@ -28,7 +28,8 @@ namespace CvWeb.Controllers
                 Educations = await _context.Educations.ToListAsync(),
                 Experiences = await _context.Experiences.ToListAsync(),
                 Interests = await _context.Interests.ToListAsync(),
-                Skills = await _context.Skills.ToListAsync()
+                Skills = await _context.Skills.ToListAsync(),
+                Skills2 = await _context.Skills2.ToListAsync()
             };
             return View(homeVM);
         }

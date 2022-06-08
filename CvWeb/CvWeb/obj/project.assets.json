@@ -8632,11 +8632,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tu7tw2d21\\Desktop\\CvWeb\\CvWeb\\CvWeb.csproj",
+      "projectUniqueName": "C:\\Users\\tu7tw2d21\\Desktop\\Cv\\CvWeb\\CvWeb\\CvWeb.csproj",
       "projectName": "CvWeb",
-      "projectPath": "C:\\Users\\tu7tw2d21\\Desktop\\CvWeb\\CvWeb\\CvWeb.csproj",
+      "projectPath": "C:\\Users\\tu7tw2d21\\Desktop\\Cv\\CvWeb\\CvWeb\\CvWeb.csproj",
       "packagesPath": "C:\\Users\\tu7tw2d21\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tu7tw2d21\\Desktop\\CvWeb\\CvWeb\\obj\\",
+      "outputPath": "C:\\Users\\tu7tw2d21\\Desktop\\Cv\\CvWeb\\CvWeb\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -13,6 +13,7 @@ namespace CvWeb.ViewModels
         public List<Experience> Experiences { get; set; }
         public List<Interests> Interests { get; set; }
         public List<Skills> Skills { get; set; }
+        public List<Skills2> Skills2 { get; set; }
 
     }
 }
